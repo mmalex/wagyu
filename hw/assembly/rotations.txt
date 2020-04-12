@@ -1,0 +1,15 @@
+c16 180
+c17 180
+u1 +90
+u2 +180
+u3 +180
+u4 +90
+u5 +90
+u6 +90
+u7 +180
+
+u2 u3 u7 180
+u4 ?? currently top left
+u6 currently top right
+c16/c17 180
+u1 u5 currently top right

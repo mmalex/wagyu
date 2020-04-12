@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name wagyu-rescue)(type Legacy)(uri ${KIPRJMOD}/wagyu-rescue.lib)(options "")(descr ""))
+)
